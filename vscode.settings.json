@@ -1,0 +1,21 @@
+{
+  "vim.handleKeys": {
+    "<C-c>": false,
+    "<C-v>": false,
+    "<C-a>": false,
+    "<C-x>": false,
+    "<C-f>": false
+  },
+  "editor.largeFileOptimizations": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.tabSize": 2,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "javascript.preferences.importModuleSpecifier": "relative",
+  "vim.commandLineModeKeyBindingsNonRecursive": [
+    
+  ]
+}
+
